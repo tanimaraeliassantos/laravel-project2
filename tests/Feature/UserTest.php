@@ -13,9 +13,9 @@ class UserTest extends TestCase
      *
      * @return void
      */
-    public function test_example()
+    public function test_login_form()
     {
-        $response = $this->get('/test');
+        $response = $this->get('/login');
 
         $response->assertStatus(200);
     }
