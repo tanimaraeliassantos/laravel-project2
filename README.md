@@ -35,7 +35,7 @@ You can register a new account at the Register button, at top right.\
 You will be automatically logged in once registered.
 
 Or you can use the following login info:\
-Email Address: user10@email.com
+Email Address: user10@email.com\
 Password: user10password
 
 ### `php artisan test`
