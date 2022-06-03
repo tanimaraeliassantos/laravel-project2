@@ -19,7 +19,6 @@ For this project we have the following tests:
 -   Laravel
 -   PHPUnit
 -   PHP Artisan
--   
 
 ## Start the App
 
