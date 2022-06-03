@@ -57,4 +57,18 @@ class UserTest extends TestCase
 
         $response->assertRedirect('/home');
     }
+
+    public function test_database()
+    {
+        $this->assertDatabaseHas('users', [
+            'name' => 'User3'
+        ]);
+    }
+
+    public function test_missing_user_database()
+    {
+        $this->assertDatabaseMissing('users',[
+            'name' => 'User6'
+        ]);
+    }
 }
