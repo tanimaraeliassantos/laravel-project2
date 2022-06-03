@@ -13,7 +13,7 @@ For this project we have the following tests:
 -   database has
 -   database missing
 -   if seeders work
--   
+
 ## Technologies
 
 -   Laravel
