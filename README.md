@@ -1,6 +1,6 @@
 # Testing in Laravel
 
-This is a project to learn how to write tests in Laravel.
+This is a project to practice writing tests in Laravel.
 
 ## About Laravel
 
@@ -16,20 +16,25 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-![Project 1 Showcase](project1-react-static_page.png)
 
 ## Feature
 
--   Navigation bar with a toggle button for dark or light mode
--   Body content with reasons why it's cool to learn React
--   Footer with totally enforceable copyright claim
+For this project we have the following tests:
 
+-   login form
+-   user duplication
+-   delete user
+-   store new users
+-   database has
+-   database missing
+-   if seeders work
+-   
 ## Technologies
 
--   HTML
--   CSS
--   JavaScript
--   React
+-   Laravel
+-   PHPUnit
+-   PHP Artisan
+-   
 
 ## Start the App
 
@@ -53,15 +58,7 @@ The name of the database in the configuration file is laravel_testing
 
 ### `php artisan test`
 
-Launches the test runner. For this project we have the following tests:
-
--   login form
--   user duplication
--   delete user
--   store new users
--   database has
--   database missing
--   if seeders work
+Launches the test runner. 
 
 ### Author
 
