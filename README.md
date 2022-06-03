@@ -27,7 +27,7 @@ In the project directory, you can run:
 ### `php artisan serve`
 
 It will run the app in the development mode.\
-Open [http://127.0.0.1:8000](http://127.0.0.1:8000 to view it in your browser.
+Open [http://127.0.0.1:8000](http://127.0.0.1:8000) to view it in your browser.
 
 When making changes, make sure you reload to see it on the page.\
 
