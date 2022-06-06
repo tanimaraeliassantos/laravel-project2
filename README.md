@@ -44,7 +44,7 @@ Launches the test runner.
 
 ### Author
 
-[Tanimara Elias Santos](https://github.com/anthropovixen)
+[Tanimara Elias Santos](https://github.com/tanimaraeliassantos)
 
 ### Version
 
